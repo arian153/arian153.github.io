@@ -22,7 +22,7 @@ title                    : "Jangseok's Game Programming Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jangseok Han"
-description              : "An amazing website..."
+description              : "Personal Blog"
 url                      : "https://arian153.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,8 +112,8 @@ author:
   name             : "Jangseok Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My name is Jangseok Han."
-  location         : "Somewhere"
-  email            :
+  location         : # "Somewhere"
+  email            : "p084111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
