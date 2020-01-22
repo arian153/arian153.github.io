@@ -116,7 +116,7 @@ author:
   location         : "Somewhere"
   email            : "p084111@gmail.com"
   links:
-    - label: "Email"
+    - lavel: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:p084111@gmail.com"
     - label: "Website"
