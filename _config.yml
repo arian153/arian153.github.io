@@ -109,15 +109,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jangseok Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "My name is Jangseok Han (한 장석)
+Usually I go by Eric Han.
+
+I am a sophomore at Digipen who likes to learn new things. Currently I have a interest about game developing technologies (physics, graphics, gameplay).
+
+My hobbies are indoor activities, music appreciation, reading books(I love historical novel and history both).
+
+Contacts : p084111@gamil.com.
+
+Technical Skills
+Physics, Graphics Programming.
+Linear Algebra, Calculus, Dynamics.
+C/C++
+"
   location         : "Somewhere"
-  email            :
+  email            : "p084111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:p084111@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,7 +142,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/arian153"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
