@@ -111,14 +111,13 @@ analytics:
 author:
   name             : "Jangseok Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My name is Jangseok Han (한 장석)"
-
+  bio              : "My name is Jangseok Han."
   location         : "Somewhere"
-  email            : "p084111@gmail.com"
+  email            :
   links:
-    - lavel: "E-Mail"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:p084111@gmail.com"
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/arian153"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
