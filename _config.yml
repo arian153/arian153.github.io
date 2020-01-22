@@ -111,20 +111,8 @@ analytics:
 author:
   name             : "Jangseok Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My name is Jangseok Han (한 장석)
-Usually I go by Eric Han.
+  bio              : "My name is Jangseok Han (한 장석)"
 
-I am a sophomore at Digipen who likes to learn new things. Currently I have a interest about game developing technologies (physics, graphics, gameplay).
-
-My hobbies are indoor activities, music appreciation, reading books(I love historical novel and history both).
-
-Contacts : p084111@gamil.com.
-
-Technical Skills
-Physics, Graphics Programming.
-Linear Algebra, Calculus, Dynamics.
-C/C++
-"
   location         : "Somewhere"
   email            : "p084111@gmail.com"
   links:
