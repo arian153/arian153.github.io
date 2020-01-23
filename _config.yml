@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Jangseok Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My name is Jangseok Han. Usually I go by Eric Han. I am a sophomore at DigiPen." 
+  bio              : "My name is Jangseok Han. \nUsually I go by Eric Han. \nI am a sophomore at DigiPen." 
   email            : "p084111@gmail.com"
   links:
     - label: "GitHub"
