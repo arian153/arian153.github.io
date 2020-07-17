@@ -1,10 +1,7 @@
-# External plugins
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-archives
   - jekyll-sitemap
   - jekyll-paginate-v2
-
 exclude:
   - "/vendor/"
 
@@ -14,11 +11,8 @@ subtitle: "Game development & Game programming"
 email: p084111@gmail.com
 name: Jangseok Han
 description: "My personal game programming blog."
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
-baseurl: '' # the subpath of your site, e.g. /blog/
-url: https://arian153.github.io # the base hostname & protocol for your site
+baseurl: ''
+url: https://arian153.github.io
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -46,7 +40,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: jangseok
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -77,29 +71,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: ""
     url: ""
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: Jangseok Han
+    url: https://github.com/arian153
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Jangseok Han
+    url: https://www.linkedin.com/in/jangseok-han-1266b4157/
     desc: Connect with me on LinkedIn
     share: true
 
