@@ -13,7 +13,7 @@ name: Jangseok Han
 description: "My personal game programming blog."
 baseurl: ''
 url: https://arian153.github.io
-cover: "/assets/header_image.jpg"
+cover: "/assets/header_image.jpeg"
 logo: "/assets/logo.png"
 
 # Build settings
