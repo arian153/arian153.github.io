@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.jpeg "Profile Picture"){:.profile}
 
 My name is Jangseok Han (한장석). 
 Usually I go by Eric Han.

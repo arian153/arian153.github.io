@@ -5,9 +5,61 @@
     <description>My personal game programming blog.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jul 2020 23:26:40 +0900</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2020 23:26:40 +0900</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2020 13:59:41 +0900</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2020 13:59:41 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>The Moon</title>
+        <description>&lt;h1 id=&quot;the-moon&quot;&gt;The Moon&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/the moon/The_Moon_2020-08-15_13-07-41.png&quot; alt=&quot;alt text&quot; title=&quot;The Moon&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/the moon/The_Moon_2020-08-15_13-12-21.png&quot; alt=&quot;alt text&quot; title=&quot;The Moon&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/the moon/The_Moon_2020-08-15_13-14-07.png&quot; alt=&quot;alt text&quot; title=&quot;The Moon&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/the moon/The_Moon_2020-08-15_13-14-20.png&quot;...</description>
+        <pubDate>Sat, 15 Aug 2020 13:47:00 +0900</pubDate>
+        <link>http://localhost:4000/projects/2020/08/15/post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2020/08/15/post.html</guid>
+        
+        <category>Project</category>
+        
+        <category>FattiEngine</category>
+        
+        <category>TheMoon</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Fatti-Engine</title>
+        <description>&lt;h1 id=&quot;fatti-engine&quot;&gt;Fatti-Engine&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/engine-2nd/Fatti-Editor(IGE)_2020-08-15_13-15-45.png&quot; alt=&quot;alt text&quot; title=&quot;Fatti-Engine&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/engine-2nd/Fatti-Editor(IGE)_2020-08-15_13-16-25.png&quot; alt=&quot;alt text&quot; title=&quot;Fatti-Engine&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt; &lt;p&gt;Fatti-Engine is my second game engine project. It is a project to develop 2D...</description>
+        <pubDate>Mon, 10 Aug 2020 18:23:00 +0900</pubDate>
+        <link>http://localhost:4000/projects/2020/08/10/post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2020/08/10/post.html</guid>
+        
+        <category>Project</category>
+        
+        <category>FattiEngine</category>
+        
+        <category>Engine2nd</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Engine 5th</title>
+        <description>&lt;h1 id=&quot;engine5&quot;&gt;Engine5&lt;/h1&gt; &lt;p&gt;&lt;img src=&quot;/assets/engine-5th/e5-1.png&quot; alt=&quot;alt text&quot; title=&quot;Engine 5th&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt; &lt;p&gt;Engine5 is my fifth game engine project. It is a project to develop 3D games and is the result...</description>
+        <pubDate>Tue, 28 Jul 2020 15:23:00 +0900</pubDate>
+        <link>http://localhost:4000/projects/2020/07/28/post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2020/07/28/post.html</guid>
+        
+        <category>Project</category>
+        
+        <category>Engine5th</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
     
       <item>
         <title>Hello World!</title>
