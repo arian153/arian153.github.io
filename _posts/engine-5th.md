@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Engine 5th"
+date:   '2020-07-28 15:23:00'
+author: Eric Han
+categories: Projects
+tags: Project Engine5th
+---
+
+# Engine5
+
+![alt text]({{ site.baseurl }}/assets/engine-5th/e5-1.png"E5 Picture"){:.e5}
+
+
+## Summary
+Engine5 is my fifth game engine project.
+It is a project to develop 3D games and is the result of refactoring from previous engine3 and engine4.
+The areas developed so far include 3D rigid-body physics, basic 3D rendering, loading some essential resource files, data-driven game data management, and so on.
+
+## API, Frameworks
+* Win32
+* DirectX 11
+* Direct2D
+* DirectWrite
+
+## External Libraries 
+* jconcpp                
+Under MIT license, or public domain
+
+* DirectXTex texture processing library        
+Under MIT Lisence
+
+* Dear ImGui gui library
+Under MIT Lisence
+
+## Features
+
+### Rendering Engine
+* DX11 Renderer
+* 7 Forward Shader (Alpha Mapping, Directional Light, Light Mapping, Multi Texture, Normal Mapping, Specular Mapping, Texture)
+
+
+### Physics Engine
+* GJK Algorithm (Gilbert–Johnson–Keerthi Algorithm)
+* EP Algorithm (Expanding Polytope Algorithm)
+* 4 2D Collider Supports (Circle, Ellipse, Rectangle, Triangle)
+* 9 3D Collider Supports (Box, Capsule, Cone, Cylinder, Dome, Ellipsoid, Sphere, Tetrahedron, Truncated)
+* 1 Broad Phase Algorithm Supports (Dynamic Bounding Volume hierarchy)
+* 1 Constraints Support (Contact Constraints)
