@@ -8,7 +8,7 @@ main_nav: true
 ## Personal Game Engine Framework Projects
 
 ### Engine5
-[![alt text]({{ site.baseurl }}/assets/engine-5th/e5-1.png "Engine 5th")]({{ site.baseurl }}/projects/2020/07/28/post.html)
+[![alt text]({{ site.baseurl }}/assets/engine-5th/e5-1.jpg "Engine 5th")]({{ site.baseurl }}/projects/2020/07/28/post.html)
 
 ### Fatti-Engine
 [![alt text]({{ site.baseurl }}/assets/engine-2nd/Fatti-Editor(IGE)_2020-08-15_13-15-45.png "Fatti-Engine")]({{ site.baseurl }}/projects/2020/08/10/post.html)
