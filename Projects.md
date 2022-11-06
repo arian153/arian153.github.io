@@ -26,6 +26,14 @@ main_nav: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMWFwcoRqIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## Personal Game Engine Framework Projects
+
+### Engine5
+[![alt text]({{ site.baseurl }}/assets/engine-5th/e5-1.jpg "Engine 5th")]({{ site.baseurl }}/projects/2020/07/28/post.html)
+
+### Fatti-Engine
+[![alt text]({{ site.baseurl }}/assets/engine-2nd/Fatti-Editor(IGE)_2020-08-15_13-15-45.png "Fatti-Engine")]({{ site.baseurl }}/projects/2020/08/10/post.html)
+
 ## Small Team Projects
 
 ### The Moon
@@ -38,10 +46,3 @@ main_nav: true
 ![alt text]({{ site.baseurl }}/assets/abort space exodus/Abort!SpaceExodus_2020-08-15_13-30-14.png "Abort! Space Exodus")
 
 
-## Personal Game Engine Framework Projects
-
-### Engine5
-[![alt text]({{ site.baseurl }}/assets/engine-5th/e5-1.jpg "Engine 5th")]({{ site.baseurl }}/projects/2020/07/28/post.html)
-
-### Fatti-Engine
-[![alt text]({{ site.baseurl }}/assets/engine-2nd/Fatti-Editor(IGE)_2020-08-15_13-15-45.png "Fatti-Engine")]({{ site.baseurl }}/projects/2020/08/10/post.html)
